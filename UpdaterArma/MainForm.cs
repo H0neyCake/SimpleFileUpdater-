@@ -32,8 +32,8 @@ namespace UpdaterArma
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Uri uri = new Uri("http://95.213.182.75/addon_tto/patchlist.xml");
-            webClient.DownloadFileAsync(uri, "patchlist.xml");
+            Uri uri = new Uri("------");//URL PATH FOR YOUR FILE
+            webClient.DownloadFileAsync(uri, "filename.rar"); // Filename when saving.
             webClient.DownloadProgressChanged += new System.Net.DownloadProgressChangedEventHandler(WebClient_DownloadProgressChanged);
             webClient.DownloadFileCompleted += new System.ComponentModel.AsyncCompletedEventHandler(WebClient_DownloadFileCompleted);
 
