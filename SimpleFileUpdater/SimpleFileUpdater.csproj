@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EDE233D2-719A-4E4C-A3F4-C5284E9483B5}</ProjectGuid>
+    <ProjectGuid>{F555583C-ECC4-42DC-9743-8D2BEFF3EFA8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>UpdaterArma</RootNamespace>
-    <AssemblyName>UpdaterArma</AssemblyName>
+    <RootNamespace>SimpleFileUpdater</RootNamespace>
+    <AssemblyName>SimpleFileUpdater</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

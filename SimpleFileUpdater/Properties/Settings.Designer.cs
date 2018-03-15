@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UpdaterArma.Properties
+namespace SimpleFileUpdater.Properties
 {
 
 

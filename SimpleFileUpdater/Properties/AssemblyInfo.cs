@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("UpdaterArma")]
+[assembly: AssemblyTitle("SimpleFileUpdater")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UpdaterArma")]
+[assembly: AssemblyProduct("SimpleFileUpdater")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("ede233d2-719a-4e4c-a3f4-c5284e9483b5")]
+[assembly: Guid("f555583c-ecc4-42dc-9743-8d2beff3efa8")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
